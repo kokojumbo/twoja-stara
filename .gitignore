@@ -17,8 +17,9 @@ hs_err_pid*
 .project
 
 # Android Files
-mobile/android/actionbarsherlock/gen
-mobile/android/Epimelo/gen
-mobile/android/Epimelo/.settings
-mobile/android/Epimelo/.apt_generated
-mobile/android/Epimelo/target
+mobile/android/actionbarsherlock/gen/*
+mobile/android/actionbarsherlock/.settings/*
+mobile/android/Epimelo/gen/*
+mobile/android/Epimelo/.settings/*
+mobile/android/Epimelo/.apt_generated/*
+mobile/android/Epimelo/target/*
